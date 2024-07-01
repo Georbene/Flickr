@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.logim{
+    margin-left: 140px;
+}
+.bo2{
+    background-image: url(images/033120190455-by-Henry.2edde7a9.png);
+}
+.log{
+    font-size: 20px;
+}
+.stin{
+    height: 30vh;
+width: 100px;
+}
+.none{
+    text-decoration: none;
+}
+.fie{
+    background-image: url(/images/Kris_Peterson_Back_to_The_Future.png)    
+}
+.main{
+    display: flex;
+    padding: 20px;
+    box-shadow: inset;
+}
+.mainput{
+    margin-left: 130px;
+    background-color: #D2D2D2;
+    width: 800px;
+}
+.login{
+    margin-left: 100px;
+    border: none;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.signup{
+    background-color: white;
+    color: black;
+    margin-left: 30px;
+width: 100px;
+height: 30px;
+border: none;
+text-align: center;
+font-weight: 600;
+}
+.find{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+.twotext{
+    text-align: cente;
+    text-align: center;
+margin-top: 50px;
+}
+.join{
+    color: white;
+font-size: 25px;
+font-weight: 500;
+}
+.startbtn{
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+font-weight: 600;
+border: none;
+}
+.startbtn:hover{
+    color: #6e6c6c6c;
+}
+.wing{
+    color: white;
+    margin-top: 100px;
+}
+.davba{
+    color: gray;
+display: grid;
+background-color: black;
+height: 100px;
+margin-top: 50px;
+padding-top: 20px;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.lastbo{
+    background-image: url(images/microsoft.png);
+}
+.signforf{
+    font-size: 20px;
+}
+.inputsign{
+    font-size: 12px;
+}
+input{
+    height: 50px;
+}
+.lastsign{
+    margin-top: 10px;
+}
+.lastigs{
+    background-color: white;
+    width: 300px;
+    align-items: center;
+    margin: auto;
+    align-self: center;
+    padding: 20px;
+    text-align: center;
+    height: 600px;
+}
